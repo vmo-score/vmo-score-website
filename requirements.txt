@@ -1,0 +1,5 @@
+pelican==3.6.3
+pybtex==0.19
+ghp-import==0.4.1
+markdown
+typogrify
