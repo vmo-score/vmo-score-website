@@ -49,5 +49,5 @@ SITELOGO = ''
 SITETITLE = 'VMO-Score'
 SITESUBTITLE = '''Automatic Construction of Interactive Machine Improvisation
                   Scenarios from Audio Recordings'''
-COPYRIGHT_YEAR = 2016
+COPYRIGHT_YEAR = 2017
 FAVICON = SITEURL + '/theme/img/favicon.ico'

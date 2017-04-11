@@ -11,7 +11,7 @@ Intuitively, VMO-Score_ takes an audio file as an input and uses the tool VMO_
 [@@Wang:2015] to generate an Audio Oracle [@@Dubnov:2011] for improvisation. In
 addition, VMO is also used to do a segmentation analysis of the input
 [@@Wang2016]. Once the tool has identified possible *natural* transitions
-between sections with similar musical content, it translates the music
+between sections with similar musical content, it translates the musical
 structure into a Petri net [@@Murata:1989] model in order to provide a higher,
 more intuitive and formal representation of this structure. Therefore, the
 artist can modify the structure of the Petri net in order to control the

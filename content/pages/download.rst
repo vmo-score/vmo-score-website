@@ -14,11 +14,11 @@ External Applications
 ---------------------
 
 * PyOracle_: Max interface for the Audio Oracle.
-* i-score_: A free and open-source inter-media sequencer. A fork with the automatic generation tool can be found `here <https://github.com/himito/i-score/releases/latest>`__.
+* i-score_: A free and open-source inter-media sequencer. A fork with the automatic generation tool can be found `here <https://github.com/vmo-score/i-score/releases/latest>`__.
 
 
 Manual Installation
---------------------
+-------------------
 
 Dependencies
 ~~~~~~~~~~~~
@@ -102,5 +102,5 @@ Usage
 .. _PyQt5: http://pyqt.sourceforge.net/Docs/PyQt5/installation.html
 .. _VMO: https://github.com/wangsix/vmo
 .. _SNAKES: https://www.ibisc.univ-evry.fr/~fpommereau/SNAKES/
-.. _PyOracle: https://gitlab.com/himito/PyOracle_I-score
+.. _PyOracle: https://github.com/vmo-score/PyOracle_I-score
 .. _i-score: http://i-score.org/
